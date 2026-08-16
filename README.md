@@ -1,25 +1,31 @@
 # Raj Chaudhary
 
-**Computer Systems Engineer | Cybersecurity & Infrastructure Defense**
+### Computer Systems Engineer | Cybersecurity & Infrastructure Defense
 
-Computer Systems Engineering graduate with a strong technical focus on defensive cybersecurity, enterprise systems administration, and security operations. Experienced in building multi-node virtualized lab environments, deploying centralized SIEM pipelines, managing Active Directory infrastructure, and configuring endpoint telemetry.
+Computer Systems Engineering graduate focused on defensive cybersecurity, enterprise systems administration, and security operations. Experienced in architecting virtual lab environments, deploying centralized SIEM pipelines, managing Active Directory infrastructure, and configuring endpoint telemetry.
 
-### Technical Competencies
+---
 
-* SIEM & Log Analytics:Splunk Enterprise, Splunk Universal Forwarder, Centralized Log Shipping, Data Indexing
-* Endpoint Telemetry & Auditing:Sysmon Deployment, Windows Security Event Logs, Process Creation Tracking, Network Auditing
-* Enterprise Infrastructure:Windows Server 2022, Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Windows 11 Enterprise
-* Networking & Virtualization:Oracle VirtualBox, NAT Subnets, Network Segmentation, Packet Analysis
+### Core Competencies
 
-### Security Projects & Homelabs
- Active Directory & Splunk Enterprise SOC Lab
-* Repository:[Active-Directory-SOC-Lab](https://github.com/razzchy777/Active-Directory-SOC-Lab)
-* Architecture:Multi-system enterprise network deployed on isolated virtual subnets featuring a Windows Server 2022 Domain Controller and Windows 11 Enterprise workstations.
-* Security Monitoring:** Centralized log shipping via Splunk Universal Forwarder to Splunk Enterprise over TCP port 9997.
-* Telemetry & Baseline:** Enhanced system visibility utilizing Sysmon for advanced endpoint auditing and granular Group Policy enforcement.
+- **SIEM & Security Telemetry:** Splunk Enterprise, Splunk Universal Forwarder, Centralized Log Ingestion, TCP Port 9997 Forwarding
+- **Endpoint Auditing:** Sysmon Deployment, Windows Security Event Logs, Process Creation Tracking, Network Auditing
+- **Enterprise Infrastructure:** Windows Server 2022, Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Windows 11 Enterprise
+- **Virtualization & Networking:** Oracle VirtualBox, NAT Subnets, Network Segmentation, Traffic Flow Analysis
 
+---
+
+### Featured Security Labs
+
+#### Active Directory & Splunk Enterprise SOC Lab
+- **Repository:** [Active-Directory-SOC-Lab](https://github.com/razzchy777/Active-Directory-SOC-Lab)
+- **Infrastructure:** Multi-node enterprise network deployed on isolated virtual subnets with a Windows Server 2022 Domain Controller and Windows 11 client workstations.
+- **Log Shipping:** Centralized telemetry pipeline forwarding Windows Event logs to Splunk Enterprise over port 9997.
+- **Endpoint Visibility:** Integrated Sysmon auditing for behavioral analysis, process tracing, and baseline security enforcement.
+
+---
 
 ### Connect
 
-* **GitHub:** [github.com/razzchy777](https://github.com/razzchy777)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com)
+- **GitHub:** [github.com/razzchy777](https://github.com/razzchy777)
+- **LinkedIn:** [Raj Chaudhary](https://www.linkedin.com)
