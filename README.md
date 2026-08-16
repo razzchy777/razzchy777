@@ -1,6 +1,5 @@
-# Raj Chaudhary
+<img width="1300" height="322" alt="image" src="https://github.com/user-attachments/assets/3c799676-5b7d-4c9e-934f-1722c02d05e5" />
 
-### Computer Systems Engineer | Cybersecurity & Infrastructure Defense
 
 Computer Systems Engineering graduate focused on defensive cybersecurity, enterprise systems administration, and security operations. Experienced in architecting virtual lab environments, deploying centralized SIEM pipelines, managing Active Directory infrastructure, and configuring endpoint telemetry.
 
