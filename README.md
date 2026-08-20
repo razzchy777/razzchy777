@@ -1,11 +1,19 @@
 <div align="center">
 
-# Raj Chaudhary
-### **Computer Systems Engineer | Defensive Security & SOC Operations**
+<h1 style="font-size: 2.8rem; font-weight: 800; margin-bottom: 0;">RAJ CHAUDHARY</h1>
+<h3 style="color: #58a6ff; margin-top: 5px;">Computer Systems Engineer | Defensive Security & SOC Operations</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/raj-chaudhary-8b3b15322)/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razzchy777)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razzchy777@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajchaudhary/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/razzchy777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <p align="center">
   Computer Systems Engineering graduate specializing in <b>Defensive Cybersecurity, Security Operations (SOC), SIEM Telemetry Pipelines, and Enterprise Infrastructure Security</b>. Experienced in architecting isolated virtualization environments, engineering log forwarding architectures, and analyzing threat actor behavior through deception systems.
@@ -26,16 +34,12 @@
 
 ### 🛠️ Technical Stack & Tooling
 
-<div align="left">
-
 | Domain | Technologies / Tools |
 | :--- | :--- |
 | **SIEM & Endpoint Telemetry** | `Splunk Enterprise` `Splunk Universal Forwarder` `Sysmon` `Windows Event Logs` `Wireshark` |
 | **Operating Systems & Deception** | `Kali Linux` `Ubuntu Server` `Debian` `Windows Server 2022` `Cowrie Honeypot` |
 | **Scripting & Development** | `Python (Flask / Requests)` `Bash` `PowerShell` `HTML5 / CSS3` `Leaflet.js` `Chart.js` |
 | **Infrastructure & Virtualization** | `Docker` `Docker Compose` `Oracle VirtualBox` `Git / GitHub` |
-
-</div>
 
 ---
 
@@ -49,13 +53,14 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzchy777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
 
 ### 🤝 Professional Inquiries & Collaboration
 
-I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly on **[LinkedIn](https://www.linkedin.com/in/raj-chaudhary-8b3b15322)**.
+I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly via **[LinkedIn](https://www.linkedin.com/in/raj-chaudhary-8b3b15322/)** or **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com)**.
