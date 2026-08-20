@@ -1,29 +1,65 @@
 <img width="1074" height="196" alt="Screenshot 2026-08-16 202550" src="https://github.com/user-attachments/assets/a95529fc-cb19-45c8-b4a6-71fc0ab87f08" />
 
-Computer Systems Engineering graduate focused on defensive cybersecurity, enterprise systems administration, and security operations. Experienced in architecting virtual lab environments, deploying centralized SIEM pipelines, managing Active Directory infrastructure, and configuring endpoint telemetry.
+<div align="center">
+
+# Raj Chaudhary
+### **Computer Systems Engineer | Defensive Security & SOC Operations**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajchaudhary/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razzchy777)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<p align="center">
+  Computer Systems Engineering graduate specializing in <b>Defensive Cybersecurity, Security Operations (SOC), SIEM Telemetry Pipelines, and Enterprise Infrastructure Security</b>. Experienced in architecting isolated virtualization environments, engineering log forwarding architectures, and analyzing threat actor behavior through deception systems.
+</p>
+
+</div>
 
 ---
 
-### Core Competencies
+### 🛡️ Core Security Competencies
 
-- **SIEM & Security Telemetry:** Splunk Enterprise, Splunk Universal Forwarder, Centralized Log Ingestion, TCP Port 9997 Forwarding
-- **Endpoint Auditing:** Sysmon Deployment, Windows Security Event Logs, Process Creation Tracking, Network Auditing
-- **Enterprise Infrastructure:** Windows Server 2022, Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Windows 11 Enterprise
-- **Virtualization & Networking:** Oracle VirtualBox, NAT Subnets, Network Segmentation, Traffic Flow Analysis
-
----
-
-### Featured Security Labs
-
-#### Active Directory & Splunk Enterprise SOC Lab
-- **Repository:** [Active-Directory-SOC-Lab](https://github.com/razzchy777/Active-Directory-SOC-Lab)
-- **Infrastructure:** Multi-node enterprise network deployed on isolated virtual subnets with a Windows Server 2022 Domain Controller and Windows 11 client workstations.
-- **Log Shipping:** Centralized telemetry pipeline forwarding Windows Event logs to Splunk Enterprise over port 9997.
-- **Endpoint Visibility:** Integrated Sysmon auditing for behavioral analysis, process tracing, and baseline security enforcement.
+* **Security Operations & SIEM:** Log Analysis, Correlation Rules, Pipeline Engineering, Incident Triage, MITRE ATT&CK Mapping
+* **Threat Detection & Deception:** Honeypot Architecture (Cowrie), Adversary TTP Identification, IoC Extraction, Command Telemetry
+* **Enterprise Infrastructure:** Active Directory Domain Services (AD DS), Group Policy Objects (GPO), Sysmon Hardening, Windows Server 2022
+* **Network & Virtualization:** Network Traffic Analysis (PCAP), Isolated Virtual Subnets, NAT Segmentation, Docker Containerization
 
 ---
 
-### Connect
+### 🛠️ Technical Stack & Tooling
 
-- **GitHub:** [github.com/razzchy777](https://github.com/razzchy777)
-- **LinkedIn:** [Raj Chaudhary](https://www.linkedin.com)
+<div align="left">
+
+| Domain | Technologies / Tools |
+| :--- | :--- |
+| **SIEM & Endpoint Telemetry** | `Splunk Enterprise` `Splunk Universal Forwarder` `Sysmon` `Windows Event Logs` `Wireshark` |
+| **Operating Systems & Deception** | `Kali Linux` `Ubuntu Server` `Debian` `Windows Server 2022` `Cowrie Honeypot` |
+| **Scripting & Development** | `Python (Flask / Requests)` `Bash` `PowerShell` `HTML5 / CSS3` `Leaflet.js` `Chart.js` |
+| **Infrastructure & Virtualization** | `Docker` `Docker Compose` `Oracle VirtualBox` `Git / GitHub` |
+
+</div>
+
+---
+
+### 📂 Featured Security Projects & Live Labs
+
+| Project & Repository | Core Technology Stack | Defensive Security Focus & Deliverables |
+| :--- | :--- | :--- |
+| **[Cowrie Honeypot & Live SOC Dashboard](https://github.com/razzchy777/cowrie-honeypot-soc-dashboard)** | `Docker` `Cowrie` `Python (Flask)` `Leaflet.js` | Built an isolated SSH deception engine. Captured brute-force intrusion sessions (`root:123456`), extracted forensic telemetry, and designed an interactive real-time SOC threat map. |
+| **[Active Directory & Splunk SOC Lab](https://github.com/razzchy777/Active-Directory-SOC-Lab)** | `Windows Server 2022` `Splunk` `Sysmon` | Deployed an enterprise domain controller and Windows 11 endpoints. Integrated Sysmon for process creation tracking and engineered centralized event log forwarding over TCP port `9997`. |
+| **[Endpoint Auditing & Threat Detection Lab](https://github.com/razzchy777)** | `Sysmon` `Windows 11` `Splunk SPL` | Created custom detection queries mapping unauthorized reconnaissance, privilege escalation, and credential dumping attempts to the MITRE ATT&CK framework. |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razzchy777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzchy777&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Professional Inquiries & Collaboration
+
+I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly on **[LinkedIn](https://www.linkedin.com/in/rajchaudhary/)**.
