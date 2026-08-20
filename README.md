@@ -4,13 +4,13 @@
 <h3 style="color: #58a6ff; margin-top: 5px;">Computer Systems Engineer | Defensive Security & SOC Operations</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajchaudhary/">
+  <a href="https://www.linkedin.com/in/raj-chaudhary-8b3b15322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/razzchy777">
+  <a href="https://github.com/razzchy777" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=razzchy777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -53,14 +53,14 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzchy777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razzchy777&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Raj Chaudhary's GitHub Activity Graph" />
 </div>
 
 ---
 
 ### 🤝 Professional Inquiries & Collaboration
 
-I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly via **[LinkedIn](https://www.linkedin.com/in/raj-chaudhary-8b3b15322/)** or **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=your-email@gmail.com)**.
+I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly via **[LinkedIn](https://www.linkedin.com/in/raj-chaudhary-8b3b15322)** or **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=razzchy777@gmail.com)**.
