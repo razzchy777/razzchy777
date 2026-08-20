@@ -1,5 +1,3 @@
-<img width="1074" height="196" alt="Screenshot 2026-08-16 202550" src="https://github.com/user-attachments/assets/a95529fc-cb19-45c8-b4a6-71fc0ab87f08" />
-
 <div align="center">
 
 # Raj Chaudhary
@@ -62,4 +60,4 @@
 
 ### 🤝 Professional Inquiries & Collaboration
 
-I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly on **[LinkedIn](https://www.linkedin.com/in/rajchaudhary/)**.
+I am actively seeking opportunities in **SOC Analysis (Tier 1/2), Security Engineering, and Defensive Cybersecurity**. Feel free to explore my repositories, review the forensic lab reports, or reach out directly on **[LinkedIn](https://www.linkedin.com/in/raj-chaudhary-8b3b15322)**.
