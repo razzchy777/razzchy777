@@ -3,9 +3,9 @@
 # Raj Chaudhary
 ### **Computer Systems Engineer | Defensive Security & SOC Operations**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajchaudhary/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/raj-chaudhary-8b3b15322)/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razzchy777)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razzchy777@gmail.com)
 
 <p align="center">
   Computer Systems Engineering graduate specializing in <b>Defensive Cybersecurity, Security Operations (SOC), SIEM Telemetry Pipelines, and Enterprise Infrastructure Security</b>. Experienced in architecting isolated virtualization environments, engineering log forwarding architectures, and analyzing threat actor behavior through deception systems.
@@ -52,10 +52,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razzchy777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzchy777&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzchy777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 🤝 Professional Inquiries & Collaboration
